@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+aside {
+  float: right;
+  margin: 6rem 11rem 6rem 0;
+  width: 22%;
+}
+
+section {
+  margin: 3rem 0;
+}
+
+footer {
+  padding: 7rem 0 5rem 0;
+  background-color: #444;
+  color: white;
+  text-align: center;
+  clear: right;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444;
+}
+
+#sidebar-cat {
+  margin-left: 0;
+}
+
+p {
+  line-height: 175%;
+}
+
+figcaption {
+  line-height: 175%;
+}
+
+a:link {
+  text-decoration: none;
+  color: skyblue;
+}
+
+.footer-links {
+  padding: 0;
+  list-style: none;
+  align-items: center;
+}
+
+.footer-links li {
+  display: inline;
+  padding: .5rem;
+}
+
+.footer-text {
+  padding: 1rem;
+}
