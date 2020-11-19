@@ -4,7 +4,7 @@
 
 aside {
   float: right;
-  margin: 6rem 10rem 6rem 1rem;
+  margin: 6rem 10rem 6rem 3rem;
   width: 22%;
 }
 
@@ -31,10 +31,9 @@ body {
 }
 
 header {
-  background-color: #444;
+  background-color: #8FBC8F;
   color: white;
-  padding: 2rem;
-  text-align: center;
+  padding: 2rem 2rem 2rem 7rem;
   clear: both;
 }
 
@@ -45,6 +44,10 @@ header {
 #tara {
   width: 50%;
   height: auto;
+}
+
+#tara-text {
+  margin-right: auto;
 }
 
 img {
@@ -83,4 +86,13 @@ a:visited {
 
 .footer-text {
   padding: 1rem;
+}
+
+.famous {
+  margin-left: 7rem;
+}
+
+nav {
+  background-color: #DCDCDC;
+  padding: 0.25rem 0.25rem 0.25rem 7rem;
 }
